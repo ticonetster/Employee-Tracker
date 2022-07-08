@@ -2,7 +2,18 @@
   "dependencies": {
     "console.table": "^0.10.0",
     "i": "^0.3.7",
-    "inquirer": "^7.1.0",
-    "mysql2": "^2.1.0"
-  }
+    "inquirer": "^7.3.3",
+    "mysql2": "^2.1.0",
+    "validator": "^13.7.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "employee-tracker",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }

@@ -22,15 +22,15 @@ VALUES  ('Software Lead', 85000, 1),
 
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
 VALUES 
-('Victor', 'Aguilar', 1, null),
-('Roberto', 'DSilva', 2, 1),
-('Laura', 'Echeverria', 3, 1),
-('Victoria', 'Campos', 4, null),
-('Juan', 'Victor', 5, 4),
-('Carlos', 'Vergaloca', 5, 4),
-('Jose', 'Maniagua', 6, 10),
-('Mauricio', 'Pena', 7, 10),
-('Carmen', 'Green', 8, 11),
-('Robert', 'Guill', 9, 11),
-('Javier', 'Brizuela', 10, null),
-('Ana', 'Vazques', 11, null);
+('Victor', 'Aguilar', 1, Null),
+('Roberto', 'DSilva', 2, Null),
+('Laura', 'Echeverria', 3, Null),
+('Victoria', 'Campos', 4, Null),
+('Juan', 'Victor', 5, Null),
+('Carlos', 'Vergaloca', 5, Null),
+('Jose', 'Maniagua', 6, Null),
+('Mauricio', 'Pena', 7, Null),
+('Carmen', 'Green', 8, Null),
+('Robert', 'Guill', 9, Null),
+('Javier', 'Brizuela', 10, Null),
+('Ana', 'Vazques', 11, Null);
